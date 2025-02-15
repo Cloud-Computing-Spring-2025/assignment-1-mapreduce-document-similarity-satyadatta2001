@@ -1,0 +1,3 @@
+doc1 the quick brown fox jumps over the lazy dog
+doc2 the quick fox jumps high over the lazy cat
+doc3 a fast brown dog leaps over a sleeping fox
